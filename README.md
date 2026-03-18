@@ -1,7 +1,7 @@
 # Miniguia-de-Futebol-com-NotebookLM.
 Projeto DIO – Miniguia de Futebol usando NotebookLM.
 
-# Miniguia de Futebol com NotebookLM
+ # link do projeto:(https://notebooklm.google.com/notebook/01f3466a-b7aa-41c0-b4e1-b9e1e6f9de35) 
 
 # 🎯 Contexto e Objetivos
 Este repositório foi criado como parte do desafio da DIO.  
