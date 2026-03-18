@@ -45,4 +45,3 @@ Dificuldades encontradas:
 - "Liste as maiores seleções e clubes da história do futebol."
 - "Descreva a evolução tática do futebol em diferentes décadas."
 
-- 
